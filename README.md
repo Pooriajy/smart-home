@@ -1,15 +1,15 @@
 **Table of Contents**
-
-[TOCM]
-
-[TOC]
+- [About](#about)
+- [Features](#features)
+- [Built With](#built-with)
+- [Technical Specifications](#technical-specifications)
 
 # About
 #### This is a showcase of how a smart-home managment system would work !
 
 # Features
-###- Auto device registration system
-###- Telegram controled
+### - Auto device registration system
+### - Telegram controled
 
 # Built With
 - python web.py library
