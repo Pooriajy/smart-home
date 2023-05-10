@@ -1,1 +1,20 @@
+@startuml
+left to right direction
 
+actor Admin
+actor User
+
+rectangle "Smart Device" as SD {
+rectangle "Lamp" as Lamp
+rectangle "Timer" as Timer
+}
+
+rectangle "Telegram Bot" as Bot {
+rectangle "Command Handler" as CH
+}
+
+Admin --> CH
+User --> Bot
+Bot --> Lamp : turn on/off
+Timer --> Lamp : turn on/off
+@enduml
