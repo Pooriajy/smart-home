@@ -1,1 +1,23 @@
-
+name: PlantUML Diagrams
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install PlantUML
+      run: sudo apt-get install -y plantuml
+    - name: Generate Diagrams
+      run: plantuml **/*.puml
+    - name: Commit and Push Changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Update diagrams [skip ci]"
+        commit_options: "--no-gpg-sign"
+        repository: ${{ github.repository }}
+        commit_user_name: "github-actions[bot]"
+        commit_user_email: "github-actions[bot]@users.noreply.github.com"
