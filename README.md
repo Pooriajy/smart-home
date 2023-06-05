@@ -20,3 +20,12 @@
 - Platform: Linux, Nodemcu
 - Programming Languages: Python, Arduino
 - Database: SQLITE3
+
+# Project Members
+| Full Name | Student Number | Username |
+| --- | --- | --- |
+| Ali KermanShahian | `98149048` | [Link](https://github.com/kermanshahianali) |
+| Amir Hossian Azin | `97149005` | [Link](https://github.com/amir-azin) |
+| Elahe Jafari | `99149017` | [Link](http://Github.com/iamelinnile) |
+| Mahdi Heydari | `99149025` | [Link](https://github.com/MahdiHeydariCE) |
+| Poria Jomee Yazdian | `97149008` | [Link](https://github.com/Pooeiajy) |
