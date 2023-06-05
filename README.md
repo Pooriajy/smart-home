@@ -3,6 +3,7 @@
 - [Features](#features)
 - [Built With](#built-with)
 - [Technical Specifications](#technical-specifications)
+- [Project Members](#Project-Members)
 
 # About
 #### This is a showcase of how a smart-home managment system would work !
@@ -28,4 +29,4 @@
 | Amir Hossian Azin | `97149005` | [Link](https://github.com/amir-azin) |
 | Elahe Jafari | `99149017` | [Link](http://Github.com/iamelinnile) |
 | Mahdi Heydari | `99149025` | [Link](https://github.com/MahdiHeydariCE) |
-| Poria Jomee Yazdian | `97149008` | [Link](https://github.com/Pooeiajy) |
+| Poria Jomee Yazdian | `99149005` | [Link](https://github.com/Pooeiajy) |
