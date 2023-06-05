@@ -1,7 +1,3 @@
-Folder: docs or assets
-
-README.md:
-
 # Assets Folder
 
 The **docs** or **assets** folder is used to store various media files and assets that are utilized in your project. This folder serves as a central location for images, icons, audio files, video files, and other media resources used in your project.
@@ -27,9 +23,5 @@ It is recommended to use relative paths when referencing the assets to ensure po
 ## Contributing to Assets
 
 Contributions to the assets folder are usually welcome. If users or contributors have additional media files or resources that they believe would benefit the project, provide guidelines or instructions on how to contribute to the assets folder in the project's documentation or README.md file.
-
----
-
-Feel free to modify and customize this README.md file to align with the specific requirements and guidelines of your project's assets or documentation folder.
 
 
