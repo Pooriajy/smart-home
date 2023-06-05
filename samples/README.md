@@ -1,3 +1,4 @@
+
 # Examples Folder
 
 The **examples** or **samples** folder contains practical examples, sample code, or small projects that are relevant to your main project. This folder serves as a helpful resource for users or contributors to understand the usage and implementation of different features or functionalities.
