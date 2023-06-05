@@ -30,3 +30,6 @@
 | Elahe Jafari | `99149017` | [Link](http://Github.com/iamelinnile) |
 | Mahdi Heydari | `99149025` | [Link](https://github.com/MahdiHeydariCE) |
 | Poria Jomee Yazdian | `99149005` | [Link](https://github.com/Pooeiajy) |
+
+# License
+Distributed under the MIT License. See `LICENSE` for more information.
