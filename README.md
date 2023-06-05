@@ -33,4 +33,4 @@
 | Poria Jomee Yazdian | `99149005` | [Link](https://github.com/Pooeiajy) |
 
 # License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
