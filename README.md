@@ -4,6 +4,7 @@
 - [Built With](#built-with)
 - [Technical Specifications](#technical-specifications)
 - [Project Members](#Project-Members)
+- [License](#License)
 
 # About
 #### This is a showcase of how a smart-home managment system would work !
