@@ -24,7 +24,7 @@
 - Database: SQLITE3
 
 # Project Members
-| Full Name | Student Number | Username |
+|Full Name | Student Number | Username |
 | --- | --- | --- |
 | Ali KermanShahian | `98149048` | [Link](https://github.com/kermanshahianali) |
 | Amir Hossian Azin | `97149005` | [Link](https://github.com/amir-azin) |
