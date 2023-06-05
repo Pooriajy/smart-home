@@ -22,7 +22,7 @@
 - Database: SQLITE3
 
 
-# Project Members 
+## Project Members 
 ### Project Code: G14
 
 First and Last Name | Student Number  | Username
