@@ -9,7 +9,7 @@ The source code files are organized in a way that best suits the project's archi
 
 ## Programming Languages
 
-Depending on the project requirements, the source folder may include code written in various programming language such as Python used in the project. Each language-specific code file should be placed in the appropriate subdirectory or follow any existing project conventions.
+Depending on the project requirements, the source folder may include code written in various programming languages such as C, Python used in the project. Each language-specific code file should be placed in the appropriate subdirectory or follow any existing project conventions.
 
 ## Contribution Guidelines
 
