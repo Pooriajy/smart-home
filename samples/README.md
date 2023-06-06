@@ -1,13 +1,13 @@
 
 # Examples Folder
 
-The **examples** or **samples** folder contains practical examples, sample code, or small projects that are relevant to your main project. This folder serves as a helpful resource for users or contributors to understand the usage and implementation of different features or functionalities.
+The **examples** or **samples** folder contains practical examples, sample code, or small projects that are relevant to main project. This folder serves as a helpful resource for users or contributors to understand the usage and implementation of different features or functionalities.
 
 ## Purpose
 
 The examples folder serves the following purposes:
 
-- **Demonstration**: It provides working examples to showcase specific use cases, techniques, or implementations related to your project.
+- **Demonstration**: It provides working examples to showcase specific use cases, techniques, or implementations related to the project.
 - **Learning Resource**: Users can refer to the examples to learn and understand how to utilize different components or modules of the project effectively.
 - **Reference Code**: The examples folder serves as a reference library, offering reusable code snippets that can be adapted and integrated into other parts of the project.
 
