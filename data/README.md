@@ -1,7 +1,7 @@
 
 # Data Folder
 
-The **data** folder is used to store data files that are required for the project. This folder can contain various types of data files, such as CSV files, database files, JSON files, or any other data formats used in the project.
+The **data** folder is used to store data files that are required for the project. This folder can contain database files used in the project.
 
 ## Purpose
 
@@ -13,7 +13,7 @@ The data folder serves the following purposes:
 
 ## Structure
 
-Depending on the nature and complexity of your project, you can organize the data files into subdirectories within the data folder. This helps maintain a logical structure and makes it easier to locate specific data files.
+Depending on the nature and complexity of the project, you can organize the data files into subdirectories within the data folder. This helps maintain a logical structure and makes it easier to locate specific data files.
 
 ## Usage
 
