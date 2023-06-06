@@ -20,7 +20,7 @@
 
 # Technical Specifications
 - Platform: Linux, Nodemcu
-- Programming Languages: Python, Arduino
+- Programming Languages: C, Python
 - Database: SQLITE3
 
 # Project Members
