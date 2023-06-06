@@ -31,7 +31,7 @@ void setup() {
     delay(500);
   }
 
-   Serial.println("WiFi connected");
+  Serial.println("WiFi connected");
   Serial.println(WiFi.localIP());
   server.begin();                         // starts the server
   /*  Serial.println("Connected to wifi");
