@@ -1,7 +1,7 @@
 
 # Assets Folder
 
-The **docs** or **assets** folder is used to store various media files and assets that are utilized in your project. This folder serves as a central location for images, icons, audio files, video files, and other media resources used in your project.
+The **docs** or **assets** folder is used to store various media files and assets that are utilized in the project. This folder serves as a central location for images, icons, audio files, video files, and other media resources used in the project.
 
 ## Purpose
 
