@@ -13,5 +13,7 @@
   - Performance: Ensure prompt response times for user requests, minimizing latency and executing commands and operations quickly.
   - Usability: Design an intuitive and user-friendly Telegram bot interface for easy lamp control and scheduling setup.
   - Compatibility: Ensure compatibility with various devices and operating systems for seamless access and control of lamps.
-  - Maintainability: Maintain a well-structured and documented codebase and infrastructure for future enhancements and maintenance.
-### Feel free to adapt these requirements to suit your project's specific needs and add any additional non-functional requirements that are relevant to your project.
+  - Maintainability: Maintain a well-structured and documented codebase and infrastructure for future enhancements and maintenance
+
+
+### These functional requirements serve as a guideline for the development and implementation of the project. For further details on usage, installation, and configuration, refer to the documentation provided.
