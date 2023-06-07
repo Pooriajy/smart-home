@@ -14,10 +14,10 @@ This folder contains project documentation including requirements assessment, pr
 
 ### Project analysis and design
 
-- [Usecase Diagram]()
-- [Activity Diagram]()
-- [Class Diagram]()
-- [Sequence Diagram]()
+- [Usecase Diagram](Diagrams/Usecase_diagram.png)
+- [Activity Diagram](Diagrams/Activity_diagram.jpg)
+- [Class Diagram](Diagrams/Class_diagram)
+- [Sequence Diagram](Diagrams/Sequence_diagram.png)
 
 ### Project Management
 
