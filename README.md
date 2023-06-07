@@ -64,7 +64,7 @@
   - Project Scheduling documentation: [Link]()
 
 # Project Members
-| Full Name | Student Number |  |Username |
+| Full Name | Student Number | Roles & Responsibilities | Username |
 | --- | --- | --- | --- |
 | Pooria Jome Yazdian | `99149019` | Software Developer | [Link](https://github.com/Pooriajy) |
 | Mahdi Heydari | `99149025` | Documentiation Engineer | [Link](https://github.com/MahdiHeydariCE) |
