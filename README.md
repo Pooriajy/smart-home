@@ -19,42 +19,36 @@
 - Empowered by Telegram
 
 # Technical Specifications
--   Platform: Linux, Nodemcu
--   Programming Languages: C, Python
--   Database: SQLITE3
+- Platform: Linux, Nodemcu
+- Programming Languages: C, Python
+- Database: SQLITE3
 
 # Project Requirements
-### Functional Requirements:
-
+###   Functional Requirements:
 - The player can move the spaceship
 - The player can fight enemies likewise, vice versa..
 - There is a bossfight in the level
 
-- ### Non-Functional Requirements:
-
+###   Non-Functional Requirements:
 - Performance - In order to ensure smooth lagging-free performance on all computers, the game must be optimized
 - Scalability - Software Architecture must be designed in such a way that the game can be expanded later on
 - Reliability - The game should not crash or present any issues that cause it to malfunction
 
 # Project Documentation
-## - Needs assessment and project scenario:
-
+###   Needs assessment and project scenario:
 - Project Scenario: [Link]()
 - Project Needs assessment: [Link]()
 - Project Requirements: [Link]()
 
-- ## Project Analysis and Design:
-
+###   Project Analysis and Design:
 - Usecase Diagram: [Link]()
 - Activity Diagram: [Link]()
 - Class Diagram: [Link]()
 - Sequence Diagram: [Link]()
 
-- ## Project Management:
-
+###   Project Management:
 - Project Phasing documentation: [Link]()
 - Project Scheduling documentation: [Link]()
-
 
 # Project Members
 | Full Name | Student Number | Username |
