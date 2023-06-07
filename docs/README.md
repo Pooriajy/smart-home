@@ -6,23 +6,23 @@ The "docs" or "documentation" folder is intended to store project documents and 
 
 This folder contains project documentation including requirements assessment, project scenario, requirements, analysis, design and project management:
 
-### Needs assessment and project scenario
+### Needs assessment and project scenario:
 
-- [Project scenario](SCENARIO.md)
-- [Project needs assessment]()
-- [Project Requirements](RERUIREMENTS.md)
+  - Project Scenario: [Link](SCENARIO.md)
+  - Project Needs assessment: [Link](NEEDS_ASSESSMENT.md)
+  - Project Requirements: [Link](RERUIREMENTS.md)
 
-### Project analysis and design
+### Project Analysis and Design:
 
-- [Usecase Diagram](Diagrams/use-case_diagram.png)
-- [Activity Diagram](Diagrams/activity_diagram.jpg)
-- [Class Diagram](Diagrams/class_diagram)
-- [Sequence Diagram](Diagrams/sequence_diagram.png)
+  - Usecase Diagram: [Link](Diagrams/use-case_diagram.png)
+  - Activity Diagram: [Link](Diagrams/activity_diagram.jpg)
+  - Class Diagram: [Link](Diagrams/class_diagram)
+  - Sequence Diagram: [Link](Diagrams/sequence_diagram.png)
 
-### Project Management
-
-- [Project phasing documentation]()
-- [Project Scheduling Documentation]()
+### Project Management:
+  
+  - Project Phasing documentation: [Link](PHASING.md)
+  - Project Scheduling documentation: [Link](SCHEDULING.md)
 
 ## Format
 
