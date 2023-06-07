@@ -37,7 +37,7 @@
 - Reliability - The game should not crash or present any issues that cause it to malfunction
 
 # Project Documentation
-- ## Needs assessment and project scenario:
+## - Needs assessment and project scenario:
 
 - Project Scenario: [Link]()
 - Project Needs assessment: [Link]()
