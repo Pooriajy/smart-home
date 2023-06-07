@@ -8,8 +8,8 @@ This folder contains project documentation including requirements assessment, pr
 
 ### Needs assessment and project scenario
 
-- [Project scenario]()
-- [Project needs assessment]()
+- [Project scenario](SCENARIO.md)
+- [Project needs assessment](RERUIREMENTS.md)
 - [Project Requirements]()
 
 ### Project analysis and design
