@@ -14,7 +14,7 @@
 - [License](#License)
 
 # About
-#### This is a showcase of how a smart-home managment system would work !
+### This is a showcase of how a smart-home managment system would work !
 
 # Features
 ### - Auto device registration system
