@@ -50,7 +50,7 @@
 # Project Documentation
 ### Needs assessment and project scenario:
   - Project Scenario: [Link](docs/SCENARIO.md)
-  - Project Needs assessment: [Link]()
+  - Project Needs assessment: [Link](docs/NEEDS_ASSESSMENT)
   - Project Requirements: [Link](docs/RERUIREMENTS.md)
 
 ### Project Analysis and Design:
@@ -60,8 +60,8 @@
 - Sequence Diagram: [Link](docs/Diagrams/sequence_diagram.png)
 
 ### Project Management:
-  - Project Phasing documentation: [Link]()
-  - Project Scheduling documentation: [Link]()
+  - Project Phasing documentation: [Link](docs/PHASING.md)
+  - Project Scheduling documentation: [Link](docs/SCHEDULING.md)
 
 # Project Members
 | Full Name | Student Number | Roles & Responsibilities | Username |
