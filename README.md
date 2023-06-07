@@ -17,8 +17,8 @@
 ### This is a showcase of how a smart-home managment system would work !
 
 # Features
-### - Auto device registration system
-### - Telegram controled
+- Auto device registration system
+- Telegram controled
 
 # Built With
 - python web.py library
