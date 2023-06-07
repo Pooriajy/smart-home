@@ -8,21 +8,21 @@ This folder contains project documentation including requirements assessment, pr
 
 ### Needs assessment and project scenario
 
-- [Project scenario] (./Project_Scenario.pdf)
-- [Project needs assessment] (./Needs_Assessment.pdf)
-- [Project Requirements] (./Project_Requirements.pdf)
+- [Project scenario]()
+- [Project needs assessment]()
+- [Project Requirements]()
 
 ### Project analysis and design
 
-- [Usecase Diagram] (./Usecase_Diagram.pdf)
-- [Activity Diagram] (./Activity_Diagram.pdf)
-- [Class Diagram] (./Class_Diagram.pdf)
-- [Sequence Diagram] (./Sequence_Diagram.pdf)
+- [Usecase Diagram]()
+- [Activity Diagram]()
+- [Class Diagram]()
+- [Sequence Diagram]()
 
 ### Project Management
 
-- [Project phasing documentation] (./Project_Phasing_Documentation.pdf)
-- [Project Scheduling Documentation] (./Project_Scheduling_Documentation.pdf)
+- [Project phasing documentation]()
+- [Project Scheduling Documentation]()
 
 ## Format
 
