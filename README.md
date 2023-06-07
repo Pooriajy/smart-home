@@ -51,7 +51,7 @@
 ### Needs assessment and project scenario:
   - Project Scenario: [Link](docs/SCENARIO.md)
   - Project Needs assessment: [Link]()
-  - Project Requirements: [Link]()
+  - Project Requirements: [Link](docs/RERUIREMENTS.md)
 
 ### Project Analysis and Design:
   - Usecase Diagram: [Link]()
