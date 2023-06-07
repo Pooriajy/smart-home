@@ -24,13 +24,13 @@
 - Database: SQLITE3
 
 # Project Requirements
-- ## Functional Requirements:
+- ### Functional Requirements:
 
 - The player can move the spaceship
 - The player can fight enemies likewise, vice versa..
 - There is a bossfight in the level
 
-- ## Non-Functional Requirements
+- ### Non-Functional Requirements:
 
 - Performance - In order to ensure smooth lagging-free performance on all computers, the game must be optimized
 - Scalability - Software Architecture must be designed in such a way that the game can be expanded later on
