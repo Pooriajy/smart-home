@@ -54,10 +54,10 @@
   - Project Requirements: [Link](docs/RERUIREMENTS.md)
 
 ### Project Analysis and Design:
-  - Usecase Diagram: [Link]()
-  - Activity Diagram: [Link]()
-  - Class Diagram: [Link]()
-  - Sequence Diagram: [Link]()
+- Usecase Diagram: [Link](docs/Diagrams/use-case_diagram.png)
+- Activity Diagram: [Link](docs/Diagrams/activity_diagram.jpg)
+- Class Diagram: [Link](docs/Diagrams/class_diagram)
+- Sequence Diagram: [Link](docs/Diagrams/sequence_diagram.png)
 
 ### Project Management:
   - Project Phasing documentation: [Link]()
