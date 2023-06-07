@@ -24,7 +24,7 @@
 -   Database: SQLITE3
 
 # Project Requirements
-### - Functional Requirements:
+### Functional Requirements:
 
 - The player can move the spaceship
 - The player can fight enemies likewise, vice versa..
