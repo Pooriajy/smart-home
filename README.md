@@ -43,7 +43,7 @@
 
 # Project Documentation
 ### Needs assessment and project scenario:
-  - Project Scenario: [Link]()
+  - Project Scenario: [Link](docs/SCENARIO.md)
   - Project Needs assessment: [Link]()
   - Project Requirements: [Link]()
 
