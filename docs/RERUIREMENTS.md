@@ -16,4 +16,4 @@
   - Maintainability: Maintain a well-structured and documented codebase and infrastructure for future enhancements and maintenance
 
 
-### These functional requirements serve as a guideline for the development and implementation of the project. For further details on usage, installation, and configuration, refer to the documentation provided.
+These functional requirements serve as a guideline for the development and implementation of the project. For further details on usage, installation, and configuration, refer to the documentation provided.
