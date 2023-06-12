@@ -1,6 +1,7 @@
 # Project Scheduling Documentation
 
-Project Delivery - Delivery: 2023/May/19			
+Project Delivery - Delivery: 2023/May/19		
+
 Project Deadlines - Deadline: 2023/Maye/10
  
 ## Documentation:
