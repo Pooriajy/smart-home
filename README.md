@@ -70,13 +70,7 @@
 | Elahe Jafari | `99149017` | Scrum Master | [Link](http://Github.com/iamelinnile) |
 | Ali KermanShahian | `98149048` | Systems Analyst | [Link](https://github.com/kermanshahianali) |
 | Pooria Jome Yazdian | `99149019` | Software Developer | [Link](https://github.com/Pooriajy) |
-| Amir Hossian Azin | `97149005` | Documentiation Engineer | [Link](https://github.com/amir-azin) |
-
-
-
-
-
-
+| Amir Hossian Azin | `97149005` | User Interface Design | [Link](https://github.com/amir-azin) |
 
 # License
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
